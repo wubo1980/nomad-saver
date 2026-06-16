@@ -27,5 +27,5 @@ export const siteMeta: SiteMeta = {
     "carry on packing list",
   ],
   locale: "en_US",
-  gaMeasurementId: undefined,
+  gaMeasurementId: "G-Z48YR5FWER",
 };
